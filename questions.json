@@ -1,0 +1,59 @@
+[
+  {
+    "title": "why we use <br> Element",
+    "ansawer_1": "To make a bold Text",
+    "ansawer_2": "To make add a break line ",
+    "ansawer_3": "To make a bold italic",
+    "ansawer_4": "To add Horizontal Line",
+    "right": "To make add a break line "
+  },
+  {
+    "title": "why we use <style></style> Element",
+    "ansawer_1": "To add a section",
+    "ansawer_2": "To make add a title",
+    "ansawer_3": "To write a JavaScript texte",
+    "ansawer_4": "To Write a css texte",
+    "right": "To Write a css texte"
+  },
+  {
+    "title": "why we use <hr> Element",
+    "ansawer_1": "To make a bold Text",
+    "ansawer_2": "To add Horizontal Line",
+    "ansawer_3": "To make a text italic",
+    "ansawer_4": "To add a section",
+    "right": "To add Horizontal Line"
+  },
+  {
+    "title": "class is a",
+    "ansawer_1": "a single quote element",
+    "ansawer_2": "a css element",
+    "ansawer_3": "attr used on forms only",
+    "ansawer_4": "Global attr",
+    "right": "Global attr"
+  },
+  {
+    "title": "why we use <script src=\"\"></script> Element",
+    "ansawer_1": "To make some style",
+    "ansawer_2": "To write a Php text",
+    "ansawer_3": "To write a JavaScript text",
+    "ansawer_4": "To add a section",
+    "right": "To write a JavaScript text "
+  },
+  {
+    "title": "has <img> The attr herf",
+    "ansawer_1": "yes",
+    "ansawer_2": "No, herf it's for <a>",
+    "ansawer_3": "No, herf it's for <link>",
+    "ansawer_4": "All element can use herf",
+    "right": "No, herf it's for <a>"
+  },
+  {
+    "title": "How can we make a bold text",
+    "ansawer_1": "use the elemenr <b>",
+    "ansawer_2": "Use the element <strong>",
+    "ansawer_3": "Style it withe Font-weight",
+    "ansawer_4": "all ansawers are right",
+    "right": "all ansawers are right"
+  }
+
+]
