@@ -1,1 +1,1 @@
-"# quizeGame" 
+open it with Live Server
